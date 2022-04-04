@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+      
+    body {
+    background: #f8f8f8;
+    color: #29292e;
+    
+    }
+    
+    #page-main{
+    padding: 0px;
+    }
+    
+    #page-main .content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    height: 260px;
+    }
+    
+    .main-css{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .h1{
+    width: 550px;
+    height: 550px;
+    left: 89px;
+    top: 83px;
+    }
+    
+    
+    #volumeLit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+    }
+    
+    #volume{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    #numberToConvert
+    {
+    
+    width: 200px;
+    height: 100px;
+    padding-top: 100px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    line-height: 24px;
+    /* or 25% */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    #titleMetric{
+        position: absolute;
+        top: 60px;
+        color: #FFFFFF;
+    }
+    
+    #kilosPound{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+    }
+    
+    #kilos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
